@@ -1,0 +1,24 @@
+{
+  "name": "accenerator-html-pdf",
+  "version": "1.0.0",
+  "description": "Accelerator that convers web pges to PDF file formate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dineshbabu Chandrasekaran <dinesh1407@hotmail.com> (dinesh1407@hotmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "html-pdf": "^2.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "mocha": "^3.4.2"
+  }
+}
